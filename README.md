@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [https://oktaykir.medium.com/](https://oktaykir.medium.com/)
 
-- 📫 How to reach me **oktay.kir@gmail.com**
+- 📫 How to reach me *kir.oktay@gmail.com**
 
 <h3 align="left">🤝🏻 Connect with me:</h3>
 <p align="left">
